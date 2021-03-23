@@ -1,0 +1,115 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.4f1 (becced5a802b) revision 12504301'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.867; Version 2004; 64bit' Language: 'he' Physical Memory: 8034 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+F:\Unity\Unity Hub\2019.4.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/Unity/Project/Project2_Sunday_Aviv2021/Unity_HW1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57952
+Successfully changed project path to: F:/Unity/Project/Project2_Sunday_Aviv2021/Unity_HW1
+F:/Unity/Project/Project2_Sunday_Aviv2021/Unity_HW1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.4f1 (becced5a802b)
+[Subsystems] Discovering subsystems at path F:/Unity/Unity Hub/2019.4.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Unity/Project/Project2_Sunday_Aviv2021/Unity_HW1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   
+    VRAM:     4017 MB
+    Driver:   27.20.100.8935
+Initialize mono
+Mono path[0] = 'F:/Unity/Unity Hub/2019.4.18f1/Editor/Data/Managed'
+Mono path[1] = 'F:/Unity/Unity Hub/2019.4.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'F:/Unity/Unity Hub/2019.4.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56156
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: F:/Unity/Unity Hub/2019.4.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002093 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.510 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001213 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.235 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.1 MB.
+System memory in use after: 58.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1530.
+Total: 2.124100 ms (FindLiveObjects: 0.148600 ms CreateObjectMapping: 0.049500 ms MarkObjects: 1.836700 ms  DeleteObjects: 0.088100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/External Assets/PBRRiggedSkeletonandBoneCollection
+  artifactKey: Guid(38a083fd837e1bb428c8c1323f7c29dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/PBRRiggedSkeletonandBoneCollection using Guid(38a083fd837e1bb428c8c1323f7c29dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c8bae4828f9cc3a1acedbafc002c88') in 0.135190 seconds
+  Import took 0.172682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.789202 seconds.
+  path: Assets/External Assets/PBRRiggedSkeletonandBoneCollection/Prefabs
+  artifactKey: Guid(45374336341f0824bb47780ebef5d9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/PBRRiggedSkeletonandBoneCollection/Prefabs using Guid(45374336341f0824bb47780ebef5d9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '905c4ec0aa808933b1fdf392bdd768cf') in 0.044887 seconds
+  Import took 0.079241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.560081 seconds.
+  path: Assets/External Assets/PBRRiggedSkeletonandBoneCollection/Prefabs/Props
+  artifactKey: Guid(049fd0c167bd66b438b5d1e34de50a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External Assets/PBRRiggedSkeletonandBoneCollection/Prefabs/Props using Guid(049fd0c167bd66b438b5d1e34de50a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1ced92a1d0ed1bafccaa535311deeda') in 0.038956 seconds
+  Import took 0.064419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 477.859685 seconds.
+  path: Assets/Sounds/Darkness and Horror Soundtrack/Darkness and Horror.ogg
+  artifactKey: Guid(05ef3ffb7c79b9f4f9040b501ca08e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Darkness and Horror Soundtrack/Darkness and Horror.ogg using Guid(05ef3ffb7c79b9f4f9040b501ca08e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '130eb07116969a4808c5c36e4bcbe511') in 0.659729 seconds
+  Import took 0.663541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000675 seconds.
+  path: Assets/Sounds/Darkness and Horror Soundtrack/Darkness and Horror.wav
+  artifactKey: Guid(0728bdf6bf2588442bc489252d5eeb92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Darkness and Horror Soundtrack/Darkness and Horror.wav using Guid(0728bdf6bf2588442bc489252d5eeb92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6b4b5d164bd5e2fca1eb6f22019d19') in 0.029050 seconds
+  Import took 0.032004 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
